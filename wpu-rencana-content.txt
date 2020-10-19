@@ -1,6 +1,8 @@
 RENCANA KONTEN WPU
 
-- jAVASCRIPT
+- JAVASCRIPT
+  * ES6
+  * Framework Javascript
 - PHP Framework
 - Interview
 - Vlogs
